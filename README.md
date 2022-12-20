@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#BCE8CB&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=BCE8CB&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=minkk's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 ### Hi there 👋
 
