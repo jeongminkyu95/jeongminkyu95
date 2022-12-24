@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&backGroundImg='https://user-images.githubusercontent.com/108388483/209440765-96fefc60-a468-4baf-bb63-bddd3cf5467a.png'&height=210&section=header&text=Welcome&fontSize=60&animation=fadeIn&fontAlignY=38&desc=minkk's%20GitHub%20Profile&descAlignY=52&descAlign=56&descSize=15,)
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=BCE8CB&height=210&section=header&text=Welcome&fontSize=60&animation=fadeIn&fontAlignY=38&desc=minkk's%20GitHub%20Profile&descAlignY=52&descAlign=56&descSize=15,) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=BCE8CB&height=210&section=header&text=Welcome&fontSize=60&animation=fadeIn&fontAlignY=38&desc=minkk's%20GitHub%20Profile&descAlignY=52&descAlign=56&descSize=15,)
 
 <!-- ### Hi there 👋 -->
 
