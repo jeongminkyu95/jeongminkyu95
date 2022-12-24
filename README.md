@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![pngwing com (1)](https://user-images.githubusercontent.com/108388483/209440765-96fefc60-a468-4baf-bb63-bddd3cf5467a.png)
+
 
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
