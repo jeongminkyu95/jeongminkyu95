@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongminkyu95&show_icons=true&theme=blue-green) -->
 
 ---
-<p align="center" style=font-size:40px>🛠️Skills</p>
+<p align="center" style=font-size:50px>🛠️Skills</p>
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/Node.js-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white">
