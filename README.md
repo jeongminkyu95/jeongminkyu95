@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ---
 
 <!-- <p align="center" style=font-size:50px>🛠️Skills</p> -->
-####🛠️Skills
+#### 🛠️Skills
 
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
