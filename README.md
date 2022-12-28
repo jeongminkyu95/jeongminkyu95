@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center" style=font-size:50px>🛠️Skills</p>
+<p align="center" font-size="50px">🛠️Skills</p>
 <!-- ## 🛠️Skills -->
 
 <p align="center" display="inline-block">
